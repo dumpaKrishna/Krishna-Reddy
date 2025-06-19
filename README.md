@@ -19,9 +19,10 @@ Curious about threats, exploits, and securing the digital world 🌐
 |------------------|-------|
 | Programming      | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) |
 | Operating Systems| ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black) ![Windows](https://img.shields.io/badge/-Windows-0078D6?style=flat&logo=windows&logoColor=white) |
-| Security Tools   | ![Wireshark](https://img.shields.io/badge/-Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white) ![Burp Suite](https://img.shields.io/badge/-Burp%20Suite-orange?style=flat&logoColor=white) Autopsy |
+| Security Tools   | ![Wireshark](https://img.shields.io/badge/-Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white) ![Burp Suite](https://img.shields.io/badge/-Burp%20Suite-orange?style=flat&logoColor=white) |
 | SIEM Platforms   | Splunk, ELK Stack, Seceon, Wazuh, CrowdStrike, Securonix |
 | Antivirus/EDR    | Bitdefender |
+| Forensics | Autopsy |
 ---
 
 ### 📫 Connect with Me
