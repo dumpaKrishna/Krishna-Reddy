@@ -27,8 +27,6 @@ Curious about threats, exploits, and securing the digital world 🌐
 
 ### 📫 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](`https://www.linkedin.com/in/dumpa-krishna-reddy-6787072a3/)  
+LinkedIn: [dumpa-krishna-reddy](https://www.linkedin.com/in/dumpa-krishna-reddy-6787072a3/)
 
 ---
-
-![Profile Views](https://komarev.com/ghpvc/?username=krishnareddy&color=blue)
