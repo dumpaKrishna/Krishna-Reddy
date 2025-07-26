@@ -28,6 +28,5 @@ Curious about threats, exploits, and securing the digital world 🌐
 ### 📫 Connect with Me
 
 LinkedIn: [dumpa-krishna-reddy](https://www.linkedin.com/in/dumpa-krishna-reddy-6787072a3/)
-Mail: krishnareddydumpa123@gmail.com
 
 ---
