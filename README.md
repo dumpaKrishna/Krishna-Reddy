@@ -6,7 +6,7 @@ Curious about threats, exploits, and securing the digital world 🌐
 ---
 
 🏫 I’m a recent graduate with bachelor's degree in cyber security from Parul University  
-💡 Interested in: Threat Hunting, SIEM, CTFs, Vulnerability Analysis  
+💡 Interested in: Threat Hunting, SIEM, CTFs, Vulnerability Analysis, Compliance  
 🔭 Learning: Security Onion, Nessus, Nmap, Bash/Python scripting  
 📫 Reach me at: krishnareedydumpa@gmail.com  
 ⚡ Fun fact: I'm always the blue team, never the black hat. 🛡️
