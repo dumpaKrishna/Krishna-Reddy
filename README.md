@@ -1,6 +1,7 @@
 👋 Hi, I’m Krishna Reddy
 
 SOC Analyst | Cybersecurity Professional | SOC Trainer 🚨
+
 Focused on security monitoring, alert triage, incident response and real-world SOC operations.
 
 
