@@ -154,5 +154,5 @@ Actively seeking an entry-level / junior SOC Analyst role to contribute to live 
 
 🌐 Portfolio: [https://krishna-cyber-guard.base44.app](https://krishna-cyber-guard.base44.app)
 
-🔗 LinkedIn: **dumpa-krishna-reddy**
+🔗 LinkedIn: **[dumpa-krishna-reddy](https://www.linkedin.com/in/krishna-reddy-dumpa-6787072a3/)**
 
