@@ -1,32 +1,126 @@
-# Hi 👋, I'm Krishna Reddy
+👋 Hi, I’m Krishna Reddy
 
-A passionate Cybersecurity Enthusiast & SOC Analyst 🚨  
-Curious about threats, exploits, and securing the digital world 🌐  
+SOC Analyst | Cybersecurity Professional | SOC Trainer 🚨
+Focused on security monitoring, alert triage, incident response and real-world SOC operations.
 
----
 
-🏫 I’m a recent graduate with bachelor's degree in cyber security from Parul University  
-💡 Interested in: Threat Hunting, SIEM, CTFs, Vulnerability Analysis, Compliance  
-🔭 Learning: SAP & GRC, Security Onion, Nessus, Nmap, Bash/Python scripting  
-📫 Reach me at: krishnareedydumpa@gmail.com  
-⚡ Fun fact: I'm always the blue team, never the black hat. 🛡️
+🎓 B.Tech in Cyber Security – Parul University (2021–2025)
+💼 Currently working as Cyber Security Trainer – NIIT Foundation, Mysore
+(Delivering hands-on SOC and SIEM training) 
 
----
 
-### 🛠️ Tools & Technologies
+🧑‍💻 Previously – SOC Analyst Intern, TechDefence, Vadodara
+Hands-on experience in SIEM monitoring, alert validation, log analysis and incident escalation
 
-| Category         | Tools |
-|------------------|-------|
-| Programming      | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) |
-| Operating Systems| ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black) ![Windows](https://img.shields.io/badge/-Windows-0078D6?style=flat&logo=windows&logoColor=white) |
-| Security Tools   | ![Wireshark](https://img.shields.io/badge/-Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white) ![Burp Suite](https://img.shields.io/badge/-Burp%20Suite-orange?style=flat&logoColor=white) |
-| SIEM Platforms   | Splunk, ELK Stack, Seceon, Wazuh, AlienVault, CrowdStrike, Securonix |
-| Antivirus/EDR    | Bitdefender, Sophos |
-| Forensics | Autopsy |
----
 
-### 📫 Connect with Me
+🔐 About Me
 
-LinkedIn: [dumpa-krishna-reddy](https://www.linkedin.com/in/dumpa-krishna-reddy-6787072a3/)
+SOC Analyst with hands-on experience in SIEM monitoring, alert triage, log analysis and incident escalation across firewall, endpoint and server logs.
+Strong understanding of network security fundamentals, malware indicators and MITRE ATT&CK–based threat analysis.
+Actively seeking an entry-level / junior SOC Analyst role to contribute to live security operations and continuous threat monitoring.
 
----
+
+💡 Core Interests
+
+SOC Operations & Incident Response
+Threat Detection & Threat Hunting
+SIEM Monitoring & Log Correlation
+Cyber Threat Intelligence
+Vulnerability Assessment (CVSS based)
+GRC & Compliance
+
+
+🧠 Key Skills
+
+Alert triage, investigation & escalation
+False-positive reduction
+Incident reporting & documentation
+IOC enrichment & threat validation
+Basic digital forensics
+Malware indicator analysis
+
+
+🛠️ Tools & Technologies
+
+SIEM & Monitoring
+Splunk, Seceon, Wazuh, ELK Stack
+Threat Intelligence
+VirusTotal, AbuseIPDB, AlienVault OTX
+Security & Analysis Tools
+Bitdefender, Metasploit
+Nmap, Wireshark (basic)
+Operating Systems
+Windows, Linux
+Forensics
+Autopsy 
+
+
+🌐 Networking Knowledge
+
+TCP/IP, DNS, DHCP
+Firewalls (NGFW concepts)
+VPN 
+
+
+📜 Frameworks & Compliance Exposure
+
+NIST
+ISO/IEC 27001
+GDPR, DPDP
+HIPAA, PCI DSS 
+
+
+🧑‍🏫 Current Role
+
+Cyber Security Trainer – NIIT Foundation | Mysore
+Deliver SOC-focused training on SIEM monitoring, alert investigation and incident response
+Train learners on phishing detection, malware indicators and threat intelligence platforms
+Design hands-on labs on DNS, TCP/IP, firewalls, VPNs and endpoint security
+Develop SOC playbooks and incident reporting templates 
+
+
+🧑‍💻 SOC Experience
+
+SOC Analyst Intern – TechDefence, Vadodara
+Monitored and triaged 150+ daily alerts using Seceon SIEM
+Performed L1 investigation and severity classification
+Reduced false positives by ~15% through improved validation and correlation
+Enriched alerts using VirusTotal and AbuseIPDB
+Documented investigations and supported incident response workflows 
+
+
+📚 Trainings & Labs
+
+TryHackMe – SOC Level 1 Analyst Path
+Alert triage, SIEM dashboards and log analysis
+Threat mapping using MITRE ATT&CK
+Incident documentation and escalation playbooks 
+
+
+🏗️ Projects
+
+Voice-Based Virtual Assistant for Windows
+Built using Python with encryption, secure authentication and command logging
+Added anomaly detection for suspicious voice commands
+Published in IEEE ICPCM 2025 (Abstract ID: ICPCM-1125) 
+
+
+📜 Certifications
+
+CompTIA Security+ (SY0-701)
+Certified Threat Intelligence & Governance Analyst (CTIGA)
+CCEP – Red Team Leaders
+Mastering Cyber Threat Intelligence – SOCRadar
+Cyber Threat Management – Cisco
+ISO/IEC 27001 – SkillFront
+Fortinet Certified Associate – Cybersecurity
+Cyber Threat Intelligence – arcX 
+
+
+📫 Connect with Me
+
+📧 Email: dumpakrishnareddy07@gmail.com
+
+🌐 Portfolio: https://krishna-cyber-guard.base44.app
+
+🔗 LinkedIn: dumpa-krishna-reddy
