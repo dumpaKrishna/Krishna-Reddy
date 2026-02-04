@@ -7,10 +7,13 @@ You can directly replace your current content with the below.
 ## 👋 Hi, I’m Krishna Reddy
 
 **SOC Analyst | Cybersecurity Professional | SOC Trainer 🚨**
+
 Focused on security monitoring, alert triage, incident response and real-world SOC operations.
 
 🎓 **B.Tech in Cyber Security – Parul University (2021–2025)**
+
 💼 **Currently working as Cyber Security Trainer – NIIT Foundation, Mysore**
+
 (Delivering hands-on SOC and SIEM training) 
 
 🧑‍💻 **Previously – SOC Analyst Intern, TechDefence, Vadodara**
@@ -148,6 +151,8 @@ Actively seeking an entry-level / junior SOC Analyst role to contribute to live 
 ### 📫 Connect with Me
 
 📧 Email: **[dumpakrishnareddy07@gmail.com](mailto:dumpakrishnareddy07@gmail.com)**
+
 🌐 Portfolio: [https://krishna-cyber-guard.base44.app](https://krishna-cyber-guard.base44.app)
+
 🔗 LinkedIn: **dumpa-krishna-reddy**
 
